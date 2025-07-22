@@ -13,4 +13,9 @@ All content is developed for educational purposes to improve my skills in real-w
 - SIEM correlation rules (Splunk basics)
 - Endpoint analysis (EDR basics)
 
+## 📄 Reports Available:
+- [PhishingAnalysis_1.pdf](./phishing/PhishingAnalysis_1.pdf) – Email spoofing case targeting Bradesco clients, with sender impersonation and failed SPF/DKIM/DMARC.
+
+---
+
 I’m still learning and growing as a junior SOC analyst, so feedback is always appreciated!
