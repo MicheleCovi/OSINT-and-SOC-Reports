@@ -7,11 +7,13 @@ All content is developed for educational purposes to improve my skills in real-w
 
 ## Topics I explore:
 - Log analysis and triage
+- Phishing detection and email header analysis
 - Windows/Linux threat detection
 - Scheduled tasks and persistence techniques
 - Detection engineering
 - SIEM correlation rules (Splunk basics)
 - Endpoint analysis (EDR basics)
+
 
 ## 📄 Reports Available:
 - [PhishingAnalysis_1.pdf](./phishing/PhishingAnalysis_1.pdf) – Email spoofing case targeting Bradesco clients, with sender impersonation and failed SPF/DKIM/DMARC.
